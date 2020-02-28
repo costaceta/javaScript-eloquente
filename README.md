@@ -1,2 +1,2 @@
-# javascript-eloquent
+# Javascript Eloquent
 Resolução dos exercícios do livro
